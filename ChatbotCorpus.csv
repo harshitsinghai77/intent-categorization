@@ -1,0 +1,207 @@
+sentence,intent
+i want to go marienplatz,FindConnection
+when is the next train in muncher freiheit?,DepartureTime
+when does the next u-bahn leaves from garching forschungszentrum?,DepartureTime
+from olympia einkaufszentrum to hauptbahnhof,FindConnection
+when is the next train from winterstraße 12 to kieferngarten,FindConnection
+when is the next rocket from winterstraße 12 to kieferngarte,FindConnection
+can you find a connection from garching to hauptbahnhof?,FindConnection
+how to get from untere strassäcker 21 to fröttmaning,FindConnection
+how i can get from marienplatz to garching,FindConnection
+connection from boltzmannstraße to kieferngarten,FindConnection
+how to get from bonner platz to freimann?,FindConnection
+when is the next s-bahn leaving at garching?,DepartureTime
+how do i get from oez to hbf?,FindConnection
+how to get from winterstrasse 12 to fröttmaning,FindConnection
+how do i get from garching forschungszentrum to pasing,FindConnection
+theresienstraße to assling,FindConnection
+how can i get from theresienstraße to munich east?,FindConnection
+when does the next bus starts from garching?,DepartureTime
+from quiddestraße to garching?,FindConnection
+can you find a connection from kurt-eisner-straße to garching forschungszentrum?,FindConnection
+can you find a connection from quiddestraße to garching forschungszentrum?,FindConnection
+when does the next train leaves at garching?,DepartureTime
+from hauptbahnhof to garching?,FindConnection
+how can i get to glockenbachviertel from garching forschungszentrum?,FindConnection
+how i can get from garching to nordfriedhof,FindConnection
+how can i get to glockenbachviertel from garching forschungszentrum?,FindConnection
+when is the next train leaving in garching forschungszentrum,DepartureTime
+how can i get from moosach to quiddestraße?,FindConnection
+how can i get from moosach to poccistraße?,FindConnection
+how can i get from kurt-eisner-straße to garching forschungszentrum?,FindConnection
+how can i get from moosach to quiddestraße?,FindConnection
+how can i get from moosach to odeonsplatz?,FindConnection
+when does the next bus starts at garching?,DepartureTime
+what's the shortest way from quiddestraße to odeonsplatz?,FindConnection
+when is the next bus from ostbahnhof,DepartureTime
+how i can get from garching to neuperlach sued,FindConnection
+when is the next train in munchner freiheit?,DepartureTime
+how i can get from marienplatz to garching?,FindConnection
+how do i get from poccistraße to laim,FindConnection
+i want to go garching from marienplatz,FindConnection
+how i can get from marienplatz to garching?,FindConnection
+how can i get from hauptbahnhof to odeonsplatz,FindConnection
+prinzregentenplatz to rotkreuzplatz,FindConnection
+i want to go to garching from marienplatz,FindConnection
+next train from garching,DepartureTime
+from prinzregentenplatz to rotkreuzplatz,FindConnection
+when is the next subway from garching forschungszentrum,DepartureTime
+from garching to klinikum,FindConnection
+from garching foschungszentrum to odeonsplatz,FindConnection
+next bus in garching,DepartureTime
+when does the train leaving in garching forschungszentrum,DepartureTime
+next subway from garching forschungszentrum,DepartureTime
+tell me the next bus from garching,DepartureTime
+"next bus from garching, please.",DepartureTime
+next bus from garching,DepartureTime
+next bus from central station,DepartureTime
+from garching to marienplatz,FindConnection
+next bus from garching.,DepartureTime
+connection from garching to hauptbahnhof?,FindConnection
+when does the next bus departs from garching?,DepartureTime
+find connection from hauptbahnhof to odeonsplatz,FindConnection
+when does the next u-bahn departs at garching forschungszentrum?,DepartureTime
+when does the next u-bahn departs at garching?,DepartureTime
+when does the next subway departs at garching,DepartureTime
+when is the next train in garching?,DepartureTime
+how to get from münchner freiheit to garching ?,FindConnection
+implerstraße to ostbahnhof,FindConnection
+how can i get from hauptbahnhof to odeonsplatz?,FindConnection
+how can i go from garching forschungszentrum to prinzregentenplatz,FindConnection
+how can i get from mangfallplatz to garching,FindConnection
+how can i get to hohenlindenerstraße,FindConnection
+harthaus to hackerbrücke,FindConnection
+how can i get from feldmoching to garching forschungszentrum?,FindConnection
+from marienplatz to petershausen,FindConnection
+when is the train from garching to marienplatz,FindConnection
+neufahrn to garching,FindConnection
+how can i get from mangfallplatz to garching,FindConnection
+how can i get to hohenlindenerstr,FindConnection
+when is the next bus from garching forschungzentrum,DepartureTime
+how do i get from spitzingplatz to poccistraße?,FindConnection
+how can i get from garching forschungszentrum to marienplatz,FindConnection
+how can i get from klinkum to marienplatz?,FindConnection
+how to get from alte heide to marienplatz,FindConnection
+next train from muenchen freicheit,DepartureTime
+"depart in garching, i assume",DepartureTime
+when does the next u-bahn depart at garching?,DepartureTime
+the next bus from garching forschungzentrum,DepartureTime
+when is the next train in alte heide?,DepartureTime
+or depart from garching,DepartureTime
+hello munich city bot! how do i get from münchner freiheit to scheidplatz?,FindConnection
+how can i get from garching forschungszentrum to prinzregentenplatz,FindConnection
+how can i get from neufahrn to garching,FindConnection
+take me to the airport,FindConnection
+when does the next u6 leave from garching forschungszentrum,DepartureTime
+how i can get from munchner freiheit to nordfriedhof?,FindConnection
+from harthaus to hackerbrücke,FindConnection
+when is the train from garching,DepartureTime
+what is the next train from münchner freiheit,DepartureTime
+how can i get from theresienstrasse to garching forschungszentrum,FindConnection
+how can i get from münchner freiheit to odeonsplatz,FindConnection
+from garching to hauptbahnhof,FindConnection
+how can i get from garching to odeonsplatz,FindConnection
+start: neufahrn end:garching,FindConnection
+how can i get from studentenstadt to garching,FindConnection
+when is the next bus from garching,DepartureTime
+take me from hauptbahnhof to odeonsplatz,FindConnection
+what's the shortest connection between quiddestraße and odeonsplatz?,FindConnection
+what is the cheapest connection between quiddestraße and hauptbahnhof?,FindConnection
+what's the shortest way between hauptbahnhof and odeonsplatz?,FindConnection
+how can i get from garching to münchner freiheit as fast as possible?,FindConnection
+what's the cheapest way from neuperlach süd to lehel?,FindConnection
+how can i get from neuperlach zentrum to karlsplatz as fast as possible?,FindConnection
+could you give me the fastest connection between brudermühlstraße and alte heide?,FindConnection
+is there a train from neuperlach zentrum to garching at 3 pm?,FindConnection
+can you find a connection from olympiazentrum to lehel at 2 pm?,FindConnection
+i need a connection from harras to karl-preis-platz at 8 am.,FindConnection
+"in need to be at hauptbahnhof at 1 pm, can you search a connection from garching forschungszentrum?",FindConnection
+i need to be in garching at 9,FindConnection
+can i take a bus from quiddestraße to hauptbahnhof?,FindConnection
+can you find the shortest way from moosfeld to milbertshofen?,FindConnection
+how can i get to neuperlach süd from garching forschungszentrum?,FindConnection
+can you find a bus from quiddestraße to lehel?,FindConnection
+is there a tram from karlsplatz to lehel?,FindConnection
+is there a bus from garching to moosach at around 5?,FindConnection
+is there a bus from odeonsplatz to hauptbahnhof at 3 pm?,FindConnection
+can you tell me the cheapest way from garching forschungszentrum to quiddestraße?,FindConnection
+how can i get to quiddestraße?,FindConnection
+when does the next bus leaves from hauptbahnhof?,DepartureTime
+how can i get from garching to hauptbahnhof?,FindConnection
+how can i get from kurt-eisner-straße to garching?,FindConnection
+"when the next train in garching,forschungszentrum is leaving?",DepartureTime
+what is the next connection from garching forschungszentrum to odeonsplatz?,FindConnection
+how can i get from mossach to garching forschungszentrum?,FindConnection
+how can i get from garching forschungszentrum to odeonsplatz?,FindConnection
+"how can i get from garching, forschungszentrum to odeonsplatz?",FindConnection
+how can i get from garching forschungszentrum to kurt-eisner-straße?,FindConnection
+how can i get to boltzmannstraße from quiddestraße?,FindConnection
+when does the next train departs from quiddestraße?,DepartureTime
+when the next train in garching forschungszentrum is leaving?,DepartureTime
+when is the next u6 leaving from garching?,DepartureTime
+when does the next train leave from garching forschungszentrum,DepartureTime
+when is the next u6?,DepartureTime
+when is the next subway leaving from garching?,DepartureTime
+when the next train in garching is leaving?,DepartureTime
+when is the next train leaving in garching,DepartureTime
+when does the next train leaves from odeonsplatz?,DepartureTime
+when does the next train leaves from quiddestraße?,DepartureTime
+when is the next train,DepartureTime
+when does the next bus leaves at garching forschungszentrum?,DepartureTime
+when does the next train leaves?,DepartureTime
+when does the next bus leave in garching?,DepartureTime
+when does the next s-bahn leaves from hauptbahnhof?,DepartureTime
+when does the next subway departes from odeonsplatz?,DepartureTime
+show me the next bus from garching!,DepartureTime
+when does the next tram starts from hauptbahnhof?,DepartureTime
+when will the next u-bahn depart from garching forschungszentrum?,DepartureTime
+show me the next bus from michaelibad.,DepartureTime
+when does the next train starts at sendlinger tor?,DepartureTime
+"hey bot, when does the next bus starts at garching?",DepartureTime
+when does the next bus leaves at garching?,DepartureTime
+when is the bus from quiddestraße?,DepartureTime
+when can i get a bus at mariahilfplatz?,DepartureTime
+when does the next bus leaves at romanplatz?,DepartureTime
+when does the bus to röblingweg starts?,DepartureTime
+next bus from quiddestraße?,DepartureTime
+when is the next bus leaving from garching?,DepartureTime
+when is the train leaving in garching,DepartureTime
+when is the train leaving in garching?,DepartureTime
+how can i get from garching to odeonsplatz?,FindConnection
+when is adrians next subway leaving at garching forschungszentrum?,DepartureTime
+how can i get from olympiazentrum to hauptbahnhof?,FindConnection
+how can i get from quiddestraße to boltzmannstraße?,FindConnection
+how can i get from moosach to garching forschungszentrum?,FindConnection
+can you give me a connection from garching to odeonsplatz?,FindConnection
+when is the next train from garching,DepartureTime
+when comes the next train,DepartureTime
+when is the next train in nordfriedhof,DepartureTime
+when does the next train come at garching forschungszentrum,DepartureTime
+when is the next train from nordfriedhof to garching forschungszentrum,FindConnection
+i want to travel from garching to odeonsplatz?,FindConnection
+how can i get to sendlinger tor?,FindConnection
+how do i get to untere straussäcker?,FindConnection
+how can i get from garching to garching?,FindConnection
+how can i get from garching to sendlinger tor?,FindConnection
+how can i get from garchingto garching?,FindConnection
+when is the next train from garching,DepartureTime
+how do i get from marienplatz zu garching,FindConnection
+how can i get to milbertshofen from garching?,FindConnection
+when is the next train to garching,FindConnection
+how can i get from garching to milbertshofen?,FindConnection
+when does the next rocket leaves from garching forschungszentrum?,DepartureTime
+connection from untere straßäcker 21 to kieferngarten,FindConnection
+how to get from untere strassäcker 21 to frötmaning,FindConnection
+how to get from untere strassaecker 21 to frötmaning,FindConnection
+when is the next train from untere straßaecker 21 to kieferngarten,FindConnection
+"when is the next train from untere straßaecker 21, garching to kieferngarten",FindConnection
+from garching to perlach,FindConnection
+how to get from garching to perlach?,FindConnection
+how to get from bonnerplatz to freimann,FindConnection
+when is the next train in nordfriedhof?,DepartureTime
+when is the next train in münchner freiheit?,DepartureTime
+connection from hauptbahnhof to odeonsplatz?,FindConnection
+how do i get from olympia einkaufszentrum to hauptbahnhof?,FindConnection
+when is the next bus in garching forschungszentrum,DepartureTime
+how can i get from garching to marienplatz,FindConnection
+from garching to studentenstadt,FindConnection
